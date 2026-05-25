@@ -148,7 +148,7 @@ It does NOT stop your currently running workflows.
 
 | Version | Description |
 |---|---|
-| CC69 | Standard version for normal usage |
+| CC69 KD | Standard version for normal usage |
 | CC69 Pro | Advanced version for multi-channel workflows |
 | CC69 Sub | High-channel version for higher workload usage |
 
