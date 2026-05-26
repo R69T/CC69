@@ -1,3 +1,5 @@
+![Banner](screenshots/banner.png)
+
 # CC69
 
 CC69 is a Windows desktop workflow tool designed for YouTube F4F (Follow-to-Follow) testing.
