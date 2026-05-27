@@ -49,6 +49,7 @@ CC69 は、多言語対応の Windows デスクトップ workflow ツールで�
 CC69 は今後、さらに多くの workflow テストプラットフォームとコミュニティ機能を追加予定です：
 
 * マルチプラットフォーム F4F workflow テスト
+* FB / IG / Twitch / Kick / Threads / X プラットフォーム F4F 対応
 * workflow ディスカッション機能
 * ユーザーフィードバック交流
 * workflow ランキングシステム
@@ -129,7 +130,7 @@ CC69 は現在以下の言語をサポートしています：
 
 以下形式の URL を入力してください：
 
-```text id="3pnzll"
+```text
 https://www.youtube.com/@yourchannel
 ```
 
@@ -191,13 +192,13 @@ workflow を network 上へ公開し、他ユーザーが参加できるよう�
 
 ダウンロードファイル：
 
-```text id="2n2c7r"
+```text
 CC69.zip
 ```
 
 解凍後：
 
-```text id="7ej0q0"
+```text
 CC69.exe
 ```
 
@@ -213,7 +214,7 @@ Windows がセキュリティ警告を表示する場合があります。
 
 問題ない場合は：
 
-```text id="n0j3pd"
+```text
 More info → Run anyway
 ```
 
