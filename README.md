@@ -16,7 +16,7 @@ It provides a simple graphical interface that allows users to:
 No command-line usage is required.
 
 ---
-
+![English UI](screenshots/english-ui.png)
 # Language
 
 - [English](README.md)
