@@ -47,6 +47,7 @@ CC69 是一款多語言 Windows 桌面 workflow 工具，
 CC69 未來預計加入更多 workflow 測試平台與社群功能：
 
 * 多平台 F4F workflow 測試
+* 支援 FB / IG / Twitch / Kick / Threads / X 平台 F4F
 * workflow 討論區
 * 使用者意見交流
 * workflow 排行與活躍度系統
@@ -181,7 +182,7 @@ CC69 會開始檢查並執行目前可用的 workflow 任務。
 
 # 下載方式
 
-請至 GitHub Releases 頁面下載最新版。
+請至 GitHub Releases 頁面下載最新版本。
 
 下載檔案：
 
