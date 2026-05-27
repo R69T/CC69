@@ -1,3 +1,5 @@
+![Banner](screenshots/banner.png)
+
 # CC69
 
 CC69 は YouTube F4F（Follow-to-Follow）workflow テスト向けの Windows デスクトップツールです。
@@ -14,7 +16,7 @@ GUI インターフェースを通じて：
 を簡単に行うことができます。
 
 ---
-
+![Japanese UI](screenshots/japanese-ui.png)
 # 言語
 
 - [English](README.md)
