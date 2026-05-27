@@ -2,26 +2,29 @@
 
 # CC69
 
-CC69 is a Windows desktop workflow tool designed for YouTube F4F (Follow-to-Follow) testing.
+CC69 is a multi-language Windows desktop workflow tool
+designed primarily for YouTube F4F (Follow-to-Follow) workflow testing and community-based interaction research.
 
-It provides a simple graphical interface that allows users to:
+Through a simple and intuitive GUI interface, users can:
 
-- Login
-- Submit URLs
-- Start workflows
-- Stop workflows
-- Publish tasks
-- Monitor current status
+* Sign in to platform accounts
+* Enter channel URLs
+* Start workflows
+* Stop workflows
+* Publish workflow tasks
+* Monitor real-time status and activity logs
 
 No command-line usage is required.
 
 ---
+
 ![English UI](screenshots/english-ui.png)
+
 # Language
 
-- [English](README.md)
-- [繁體中文](README_ZH.md)
-- [日本語](README_JP.md)
+* [English](README.md)
+* [繁體中文](README_ZH.md)
+* [日本語](README_JP.md)
 
 ---
 
@@ -29,25 +32,40 @@ No command-line usage is required.
 
 ### Designed for YouTube F4F (Follow-to-Follow) Workflow Testing
 
-- Completely free to use
-- No hidden payment system
-- No subscription required
-- No need to publicly expose your channel
-- Lightweight GUI workflow system
+* Completely free to use
+* No hidden payments
+* No subscription required
+* No need to publicly expose your channel
+* Lightweight GUI workflow system
+* Multi-language support
+* Community-driven workflow network
 
 ---
 
-### Built-in Features
+# Planned Features
 
-- Graphical user interface
-- Login status support
-- URL input support
-- Start / Stop workflow controls
-- Publish task support
-- Stop publishing tasks anytime
-- Built-in status log panel
-- Daily status and score display
-- Multi-language interface support
+CC69 is planned to support more workflow testing platforms and community functions in the future:
+
+* Multi-platform F4F workflow testing
+* Workflow discussion sections
+* User feedback and interaction
+* Workflow ranking and activity systems
+* More GUI themes and language support
+
+---
+
+# Built-in Features
+
+* Graphical user interface
+* Login status monitoring
+* Channel URL input support
+* Workflow start / stop controls
+* Task publishing support
+* Stop publishing tasks anytime
+* Real-time activity log panel
+* Daily status and score display
+* Multi-language GUI interface
+* Dark theme interface
 
 ---
 
@@ -55,40 +73,22 @@ No command-line usage is required.
 
 CC69 is a community-driven workflow system.
 
-The platform works through user participation.
+The workflow network depends heavily on user participation and shared activity.
 
 Users can:
 
-- Publish workflow tasks
-- Receive tasks from other users
-- Participate in shared workflow activity
+* Publish workflow tasks
+* Receive workflows from other users
+* Participate in shared workflow activity
+* Help maintain the workflow network
 
-This means the effectiveness of the system depends heavily on active users participating in the network.
+As more active users join:
 
----
+* Workflow circulation becomes faster
+* More workflows become available
+* Overall system effectiveness increases
 
-# Important Notice
-
-CC69 is completely free.
-
-There is currently:
-
-- No paid promotion
-- No advertising system
-- No subscription plan
-- No artificial traffic injection
-
-The growth and effectiveness of the workflow network entirely depends on users sharing and recommending CC69 to more people who are interested in participating.
-
-The more active users join the network:
-
-- The more workflow activity becomes available
-- The more effective the overall system becomes
-- The faster task circulation can happen
-
-If very few users are participating, workflow availability may become limited.
-
-CC69 grows through community participation, not through paid marketing.
+CC69 grows through community participation rather than paid marketing.
 
 ---
 
@@ -96,11 +96,11 @@ CC69 grows through community participation, not through paid marketing.
 
 CC69 currently supports:
 
-- Chinese
-- English
-- Japanese
-- German
-- Vietnamese
+* Chinese
+* English
+* Japanese
+* German
+* Vietnamese
 
 ---
 
@@ -109,50 +109,70 @@ CC69 currently supports:
 1. Download the CC69 ZIP package
 2. Extract the ZIP file
 3. Run `CC69.exe`
-4. Login
-5. Enter your URL
-6. Click "Start Work"
-7. Click "Stop Work" when needed
+4. Sign in to your platform account
+5. Enter your YouTube channel URL
+6. Click “Start Work”
+7. Click “Stop Work” when needed
 
 ---
 
-# Workflow Controls
+# Workflow Usage Guide
+
+## Enter the Correct Channel URL
+
+Please enter a channel URL in the following format:
+
+```text
+https://www.youtube.com/@yourchannel
+```
+
+---
+
+## Use an Account Unrelated to Your Main Channel
+
+It is recommended to use:
+
+* A secondary account
+* A testing account
+* A non-primary channel account
+
+to avoid affecting your main account.
+
+---
 
 ## Start Work
 
-After clicking "Start Work", CC69 will begin checking and processing available workflow tasks.
+After clicking “Start Work”:
+
+CC69 will begin checking and processing available workflow tasks.
 
 ---
 
 ## Stop Work
 
-After clicking "Stop Work", the application will stop receiving new tasks.
+After clicking “Stop Work”:
 
-If tasks are currently running, CC69 will wait until they are completed before fully stopping.
-
----
-
-## Publish Task
-
-After entering a URL, users can publish workflow tasks into the network.
+* The application stops receiving new workflows
+* Currently running workflows will finish first
+* The system will fully stop after completion
 
 ---
 
-## Stop Publishing Tasks
+## Publish Tasks
 
-This only stops your URL from continuing to be assigned to others.
+After entering your channel URL:
 
-It does NOT stop your currently running workflows.
+You can publish workflows into the network for other users to participate in.
 
 ---
 
 # Versions
 
-| Version | Description |
-|---|---|
-| CC69 KD | Standard version for normal usage |
-| CC69 Pro | Advanced version for multi-channel workflows |
-| CC69 Sub | High-channel version for higher workload usage |
+| Version  | Description                     |
+| -------- | ------------------------------- |
+| CC69 KD  | Standard single-channel edition |
+| CC69 Pro | Advanced multi-channel edition  |
+| CC69 Sub | High-channel edition            |
 
 ---
 
@@ -176,7 +196,9 @@ CC69.exe
 
 # Windows Security Warning
 
-Windows may display a security warning when running the EXE for the first time.
+When running the EXE for the first time:
+
+Windows may display a security warning.
 
 If you trust the source, select:
 
@@ -190,11 +212,11 @@ This usually happens because the EXE is not digitally signed.
 
 # Notes
 
-- Google Chrome is required
-- Login is required before use
-- Stable internet connection is recommended
-- If the application fails to launch, re-extract the ZIP file and try again
-- Do not run the EXE directly inside the ZIP archive
+* Google Chrome is required
+* Login is required before use
+* A stable internet connection is recommended
+* If the application fails to launch, re-extract the ZIP file and try again
+* Do not run the EXE directly inside the ZIP archive
 
 ---
 
@@ -202,6 +224,15 @@ This usually happens because the EXE is not digitally signed.
 
 CC69 is provided for research, testing, and personal workflow management purposes only.
 
-Users are responsible for ensuring compliance with platform rules, terms of service, and local laws.
+Users are responsible for ensuring that their usage complies with:
 
-Do not use this tool for abuse, spam, or activities that violate platform policies.
+* Platform policies
+* Terms of service
+* Local laws and regulations
+
+Do not use this tool for:
+
+* Abuse
+* Spam
+* Malicious automation
+* Activities that violate platform policies
