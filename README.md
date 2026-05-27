@@ -47,6 +47,7 @@ No command-line usage is required.
 CC69 is planned to support more workflow testing platforms and community functions in the future:
 
 * Multi-platform F4F workflow testing
+* FB / IG / Twitch / Kick / Threads / X platform F4F support
 * Workflow discussion sections
 * User feedback and interaction
 * Workflow ranking and activity systems
