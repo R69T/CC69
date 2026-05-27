@@ -14,7 +14,7 @@ CC69 是一款 Windows 桌面 workflow 工具，主要設計用於 YouTube F4F�
 不需要使用指令列。
 
 ---
-
+![Chinese UI](screenshots/chinese-ui.png)
 # 語言
 
 - [English](README.md)
